@@ -1,0 +1,130 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>La teoría del todo</title>
+</head>
+<body style="font-family: Arial;">
+
+  <header style="text-align:center;">
+    <img src="lhttps://informaticaingenieria.wordpress.com/wp-content/uploads/2011/01/logo-prepa-color.jpg?w=320" alt="Logo Escuela EPO 60" height="80">
+    <h1>La teoría del todo</h1>
+    <p><strong>Escuela: Escuela Preparatoria Oficial No. 60, Estado de México, Jocotitlán</strong></p>
+    <p><strong>Año: 2025</strong></p>
+  </header>
+
+  <section>
+    <h2>Stephen Hawking</h2>
+    <p><strong>Stephen Hawking</strong> fue un físico teórico, cosmólogo y autor británico. Es ampliamente reconocido por sus aportaciones al estudio de los agujeros negros, la relatividad, y su esfuerzo por hacer accesible la ciencia al público. Pese a vivir con esclerosis lateral amiotrófica (ELA), se convirtió en una de las mentes más brillantes de la física moderna.</p>
+    <img src="https://s.rfi.fr/media/display/69e8bcce-1701-11ea-90d6-005056bf7c53/w:1280/p:3x4/stephen_hawking_0.jpg" alt="Stephen Hawking" height="100">
+  </section>
+
+  <section>
+    <h2>Descripción del libro</h2>
+    <p><em>“La teoría del todo”</em> es una colección de siete conferencias de Stephen Hawking en las que explica la historia del universo, desde el Big Bang hasta los agujeros negros. El autor aborda temas complejos con un lenguaje sencillo, guiando al lector en una búsqueda por una teoría unificada que explique todos los fenómenos del universo.</p>
+  </section>
+
+  <nav>
+    <h3>Menú de capítulos</h3>
+    <ul>
+      <li><a href="#cap1">Capítulo 1: El origen del universo</a></li>
+      <li><a href="#cap2">Capítulo 2: Agujeros negros</a></li>
+      <li><a href="#cap3">Capítulo 3: La dirección del tiempo</a></li>
+      <li><a href="#cap4">Capítulo 4: Hacia una teoría del todo</a></li>
+    </ul>
+  </nav>
+
+  <!-- Capítulo 1 -->
+  <section id="cap1">
+    <h3>Capítulo 1: El origen del universo</h3>
+    <p> Hawking comienza explicando cómo el universo surgió de una gran explosión conocida como el Big Bang, marcando el inicio del tiempo y el espacio.</p>
+    <p>Aborda la evolución de la ciencia para explicar el inicio del cosmos desde teorías filosóficas hasta teorías científicas modernas.</p>
+    <img src="https://imgv2-2-f.scribdassets.com/img/document/325555643/original/454d5cede0/1?v=1" alt="Capitulo1" height="150">
+    <p><strong>Reflexión:</strong> Este capítulo me hizo pensar en lo pequeños que somos en un universo tan vasto y lleno de misterios.</p>
+    <img src="https://cdn.bookey.app/files/publish-book/8271144-la-teor-a-del-todo.jpg" alt="Evidencia capítulo 1" height="150">
+  </section>
+
+  <!-- Capítulo 2 -->
+  <section id="cap2">
+    <h3>Capítulo 2: Agujeros negros</h3>
+    <p> Se explora qué son los agujeros negros, cómo se forman a partir de estrellas colapsadas y su capacidad para influir en el espacio-tiempo.</p>
+    <p> Hawking propone que los agujeros negros pueden emitir una forma de radiación, ahora conocida como "radiación de Hawking".</p>
+    <img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2024/05/agujeros-negros-1.jpg" alt="Imagen capítulo 2" height="150">
+    <p><strong>Reflexión:</strong> Me pareció fascinante cómo algo tan oscuro puede aportar tanta luz al conocimiento científico.</p>
+    <img src="https://0.academia-photos.com/attachment_thumbnails/61038265/mini_magick20220708-20523-lrctu8.png?1657318558" alt="Evidencia capítulo 2" height="150">
+  </section>
+
+  <!-- Capítulo 3 -->
+  <section id="cap3">
+    <h3>Capítulo 3: La dirección del tiempo</h3>
+    <p> El autor analiza por qué sentimos que el tiempo solo avanza, y cómo las leyes de la física permiten que el tiempo funcione hacia ambos lados.</p>
+    <p> Cuestiona la naturaleza del tiempo desde una perspectiva física y filosófica.</p>
+    <img src="https://fotografias.lasexta.com/clipping/cmsimages02/2023/02/21/31ED5B0A-DDDE-4210-8794-63CBDC4FA316/logran-invertir-direccion-tiempo-sistema-cuantico-real_96.jpg?crop=1280,720,x0,y43&width=1200&height=675&optimize=low&format=webply" alt="Imagen capítulo 3" height="150">
+    <p><strong>Reflexión:</strong> Me hizo pensar en cómo vivimos cada momento sin poder volver atrás, lo que nos recuerda la importancia del presente.</p>
+    <img src="https://www.penguinlibros.com/mx/3166417-medium_default/la-teoria-del-todo.jpg" alt="Evidencia capítulo 3" height="150">
+    <p><a href="actividad_clase.html">Ver actividad realizada en clase</a></p>
+  </section>
+
+  <!-- Capítulo 4 -->
+  <section id="cap4">
+    <h3>Capítulo 4: Hacia una teoría del todo</h3>
+    <p> Hawking presenta su sueño de encontrar una teoría que combine la relatividad general con la mecánica cuántica.</p>
+    <p> Muestra cómo el avance científico depende de cuestionar todo y buscar respuestas aún sin garantías.</p>
+    <img src="https://cdn.labrujulaverde.com/wp-content/uploads/2025/05/Photo_press_release-1.jpg" alt="Imagen capítulo 4" height="150">
+    <p><strong>Reflexión:</strong> Este capítulo me motivó a seguir haciéndome preguntas y no conformarme con lo que ya se sabe.</p>
+    <img src="https://resources.claroshop.com/imagenes-sanborns-ii/1200/9786073100311_2.jpg" alt="Evidencia capítulo 4" height="150">
+    <p><a href="pagina_extra.html">Ver otra página relacionada al capítulo 4</a></p>
+  </section>
+<table border="1">
+<caption style="font-family: Arial; font-size: 20px; color: rgb(0, 95, 238);">  </caption>
+<tr>
+<th>Parcial </th>
+<th> Nombre de la actividad </th>
+<th> Descripcion </th>
+<th>Evidencia</th>
+
+</tr>
+<tr>
+<th> Primer Parcial</th>
+<th> Cuestionario </th>
+<th> Se decidio que la forma de evaluarnos el primer parcial del proyecto de lectura seria mediante un cuestionario donde se nos harian preguntas sobre el libro que habiamos leido.</th>
+<th> <img src="blob:https://web.whatsapp.com/a3376063-b6b3-4efa-b5bb-1b6c705a6a8e" width="130mpx" ></th>
+</tr>
+<tr>
+<th> Segundo Parcial</th>
+<th> Glosario</th>
+<th>Conforma al maestro que nos iba a evaluar, decidio hacerlo mediante la elaboracion de un glosario que teniamos que hacer nosotros mismos sobre conceptos que venian en el libro.  </th>
+<th> <img src="https://i.pinimg.com/736x/fb/9b/4d/fb9b4db96f30ca20ffddb03489a537f9.jpg" width="130mpx"> </th>
+</tr>
+<tr>
+<th> Tercer parcial</th>
+<th> Ideas </th>
+<th> La tercera evaluacion sera mediante la elaboracion de una nube de ideas y/o palabras que podiamos sacar del libro junto a el glosario hecho anteriormente.</th>
+<th> <img src="https://i.ibb.co/LzhqngSq/Whats-App-Image-2025-06-08-at-3-19-19-PM.jpg" width="130mpx"></th>
+</tr>
+</table>
+
+  <!-- Formulario -->
+  <section>
+    <h3>Formulario de reflexión</h3>
+    <form>
+      <label>¿Qué enseñanza te dejó el libro?</label><br>
+      <input type="text" name="enseñanza" size="50"><br><br>
+
+      <label>¿Cuales fueron los temas mas dificiles de entender?</label><br>
+      <input type="text" name="capitulo" size="50"><br><br>
+
+      <label>¿Qué te gustaría explorar más sobre el universo?</label><br>
+      <input type="text" name="explorar" size="50"><br><br>
+    </form>
+  </section>
+
+  <footer style="margin-top: 30px;">
+    <p><strong>Trabajo realizado por: Jose Manuel Lopez Perez</strong></p>
+    <p>Escuela: Escuela Preparatoria Oficial No.60, Jocotitlán, Estado de México</p>
+    <p>Fecha: Junio 2025</p>
+  </footer>
+
+</body>
+</html>
